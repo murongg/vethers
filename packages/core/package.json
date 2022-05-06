@@ -2,16 +2,16 @@
   "name": "@vethers/core",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "license": "MIT",
+  "author": "MuRong <admin@imuboy.cn>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/murongg/vethers.git"
   },
-  "author": "MuRong <admin@imuboy.cn>",
-  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "bugs": {
     "url": "https://github.com/murongg/vethers/issues"
   },
